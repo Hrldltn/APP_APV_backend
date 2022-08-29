@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-import generarId from '../helpers/generarid.js';
+import generarId from '../helpers/generarId.js';
 import bcrypt from 'bcrypt'
 
 const veterinarioSchema=mongoose.Schema({
